@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Indices.iml" filepath="$PROJECT_DIR$/.idea/modules/Indices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Matrix.iml" filepath="$PROJECT_DIR$/.idea/modules/Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MatrixTranformations.iml" filepath="$PROJECT_DIR$/.idea/modules/MatrixTranformations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShaderUniforms.iml" filepath="$PROJECT_DIR$/.idea/modules/ShaderUniforms.iml" />
+    </modules>
+  </component>
+</project>
